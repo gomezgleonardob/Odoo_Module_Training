@@ -1,1 +1,1 @@
-# Full_Stack_Open
+# Odoo_Training_Modules
